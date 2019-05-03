@@ -1,0 +1,17 @@
+{
+    "name": "IcAttributes.Editor",
+    "references": [
+        "IcAttributes.Attribute",
+        "IcAttribute.Core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

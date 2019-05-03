@@ -1,0 +1,16 @@
+{
+    "name": "IcAttributes.Editor.AttributeDrawerHandles",
+    "references": [
+        "IcAttributes.Attribute",
+        "IcAttributes.Editor",
+        "IcAttribute.Core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
