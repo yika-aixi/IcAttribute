@@ -5,7 +5,7 @@ Unity字段使用的特性绘制
 
 如何使用:`克隆该项目到Unity工程就可以.`
 
-编写一个自己的Filed特性,只需要继承`BaseAttribute`
+编写一个自己的Filed特性,首先先添加`Core`的引用,然后继承`BaseAttribute`
 
 `DisableAttribute.cs`
 ```
